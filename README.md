@@ -1,2 +1,5 @@
 # Opening-top-5-search-result
-This program will open the top 5 search results in new tabs when the user enters keyword in command line
+# Gets search keywords from the command line arguments
+# Retrieves the search results page for pypi.org
+# Opens a browser tab for each of the top 5 search results
+# A program like this can be adapted to other websites like Google
